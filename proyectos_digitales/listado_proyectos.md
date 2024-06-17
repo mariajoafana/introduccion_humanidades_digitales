@@ -66,7 +66,8 @@ RDH: https://reviewsindh.pubpub.org/pub/radio-free-stein/release/2
 
 RDH: https://reviewsindh.pubpub.org/pub/la-frontera/release/1  
 
-*Justicia social y activismo* 
+
+*Justicia social, activismo y periodismo* 
 
 Black Meme: https://externalpages.org/#legacyrussell 
 
