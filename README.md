@@ -1,17 +1,16 @@
-# introduccion_humanidades_digitales
+# Introduccion a las Humanidades Digitales
+
 Materiales del curso "Introducción a las Humanidades Digitales"
 
-Profesores:
-Maria José Afanador Llach
-Juan Camilo González 
+**Profesores:**  
+<a href="https://facartes.uniandes.edu.co/miembro/maria-jose-afanador/" target="_blank">Maria José Afanador Llach<a>  
+<a href="https://facartes.uniandes.edu.co/miembro/juan-camilo-gonzalez/" target="_blank">Juan Camilo González</a>
 
-25, 26 y 27 de julio, TEC de Monterrey
+25, 26 y 27 de julio, presencial en el TEC de Monterrey.
 
-**Cronograma**
+## Cronograma
 
-Martes 25 de julio
-
-| Día 1, 25 de junio  | Actividades |
+| Día 1, martes 25 de junio  | Actividades |
 | ------------- | ------------- |
 | 9:00 a 9:30am |Presentación introductoria de profesores y de participantes |
 | 9:30 a 10:45am  | Sesión 1: Presentación inicial: trayectorias de las Humanidades Digitales, Maria José Afanador  |
@@ -23,8 +22,7 @@ Martes 25 de julio
 | 4:00 a 4:20pm  | Receso |
 | 4:20 a 5:30pm  | Actividad grupal de revisión de proyectos digitales en artes y humanidades I, Juan Camilo y Maria José|
 
-
-| Día 2, 26 de junio  | Actividades |
+| Día 2, miércoles 26 de junio  | Actividades |
 | ------------- | ------------- |
 | 9:00 a 10:45am  | Presentación: Principios, valores, alfabetismos y enfoques metodológicos en las HD, Maria José Afanador |
 | 10:45 a 11:00am  | Receso |
@@ -34,7 +32,7 @@ Martes 25 de julio
 | 4:00 a 4:20pm  |Receso |
 | 4:20 a 5:30pm  |Actividad grupal de revisión de proyectos digitales en artes y humanidades II, Juan Camilo y Maria José |
 
-| Día 3, 27 de junio  | Actividades |
+| Día 3, jueves 27 de junio  | Actividades |
 | ------------- | ------------- |
 | 9:00 a 10:45am |Profundización: Humanidades espaciales digitales, Maria José Afanador  |
 | 10:45 a 11:00am | Receso |
