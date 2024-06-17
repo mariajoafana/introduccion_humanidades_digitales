@@ -37,11 +37,10 @@ Martes 25 de julio
 
 | Día 3, 27 de junio  | Actividades |
 | ------------- | ------------- |
-| 9:00 a 10:50am  |Profundización: Humanidades espaciales digitales, Maria José Afanador  |
-| 10:30 a 10:50am  | Taller: trabajo con datos y narrativas geoespaciales, Juan Camilo González |
-| 10:50 a 12:20am  | Continuación del taller, Juan Camilo González |
-| 12:20 a 1:00pm  |Preguntas, comentarios y discusión|
+| 9:00 a 10:45am |Profundización: Humanidades espaciales digitales, Maria José Afanador  |
+| 10:45 a 11:00am | Receso |
+| 11:00 a 1:00pm | Taller: trabajo con datos y narrativas geoespaciales, Juan Camilo González|
 | 1:00 a 2:30pm  | Almuerzo |
-| 2:30 a 3:30pm  |Presentaciones de ideas de proyectos digitales en HD, participantes del TEC|
+| 2:30 a 4:00pm  |Presentaciones y retroalimentación a ideas de proyectos digitales en HD, participantes del TEC|
 | 4:00 a 4:20pm  |Receso|
-| 4:20 a 5:30pm  |Discusión finales y cierre |
+| 4:20 a 5:30pm  |Discusión final y cierre |
