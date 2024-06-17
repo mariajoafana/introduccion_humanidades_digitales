@@ -13,5 +13,5 @@ Martes 25 de julio
 
 | Día 1, 25 de junio  | Second Header |
 | ------------- | ------------- |
-| 1. Presentación introductoria de los docentes | Content Cell  |
+| 9:00 a 9:30am | 1. Presentación introductoria de los docentes y de los participantes |
 | Content Cell  | Content Cell  |
