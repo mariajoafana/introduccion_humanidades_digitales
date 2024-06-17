@@ -1,6 +1,6 @@
 ## listado de proyectos digitales 
 
-*Arqueología* 
+**Arqueología**
 
 Archaeology Data Service: https://archaeologydataservice.ac.uk 
 
@@ -10,7 +10,7 @@ Ariadne: https://eadh.org/projects/ariadne
 
 Artefacts: https://eadh.org/projects/artefacts 
 
-*Historia* 
+**Historia** 
 
 Slave Revolt in Jamaica: http://revolt.axismaps.com/  
 
@@ -22,7 +22,7 @@ Digital Harlem: https://revistas.uned.es/index.php/RHD/article/view/30503/27026
 
 In Search of the Drowned: Testimonies and Testimonial Fragments of the Holocaust: https://eadh.org/projects/search-drowned-testimonies-and-testimonial-fragments-holocaust 
 
-*Literatura* 
+**Literatura** 
 
 Mapping the Republic of Letters:  http://republicofletters.stanford.edu/casestudies/grandtour.html 
 
@@ -34,13 +34,13 @@ The Princeton Prosody Archive: https://reviewsindh.pubpub.org/pub/princeton-pros
 
 Distant Reading for European Literary History: https://eadh.org/projects/distant-reading-european-literary-history 
 
-*Lingüística* 
+**Lingüística** 
 
 ALCIDE (Analysis of Language and Content in a Digital Environment): https://dh.fbk.eu/projects/alcide-analysis-language-and-content-digital-environment 
 
 CALLIDUS - Vocabulary Acquisition in Latin using Corpus-based Methods: https://eadh.org/projects/callidus-vocabulary-acquisition-latin-using-corpus-based-methods TICHA. A Digital Text Explorer of Colonial Zapotec: https://reviewsindh.pubpub.org/pub/ticha/release/14  
 
-*Musicología* 
+**Musicología** 
 
 The National Archive of Irish Composes: https://arrow.dit.ie/naic/ 
 
@@ -54,7 +54,7 @@ AudibleRVA: https://reviewsindh.pubpub.org/pub/audiblerva/release/2
 
 Paisajes sonors históricos, c.1200-c.1800: https://eadh.org/projects/historical-soundscapes  
 
-*Artes escénicas*  
+**Artes escénicas**  
 
 Dunham’s Data: https://www.dunhamsdata.org/ 
 
@@ -67,7 +67,7 @@ RDH: https://reviewsindh.pubpub.org/pub/radio-free-stein/release/2
 RDH: https://reviewsindh.pubpub.org/pub/la-frontera/release/1  
 
 
-*Justicia social, activismo y periodismo* 
+**Justicia social, activismo y periodismo** 
 
 Black Meme: https://externalpages.org/#legacyrussell 
 
@@ -81,7 +81,7 @@ Mapacleta: https://www.colaboratoriopluriversos.org/mapacleta
 
  
 
-*Estudios clásicos*  
+**Estudios clásicos**  
 
 Topos Text: https://topostext.org 
 
@@ -98,7 +98,7 @@ Six Degrees of Francis Bacon: http://www.sixdegreesoffrancisbacon.com/about
 The InPhO Project: https://www.inphoproject.org/  
 
 
-*Lexicografía*  
+**Lexicografía**  
 
 Digital Lexicography: https://tcdh.uni-trier.de/en/thema/digital-lexicography 
 
@@ -107,7 +107,7 @@ European Lexicographic Infrastructure: https://elex.is/
 Lexicon Poeticum: https://dhnb.eu/projects/lexicon-poeticum/  
 
 
-*Historia del Arte*  
+**Historia del Arte**  
 
 Arte Colonial Americano (ARCA): https://arca.uniandes.edu.co/  
 
@@ -116,5 +116,7 @@ Closer to Van Eyck: http://legacy.closertovaneyck.be/#
 Open Arts Images: https://eadh.org/projects/open-art-images 
 
 Inventing Abstraction: https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/  
+
+**Artes**
 
  
