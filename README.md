@@ -15,7 +15,7 @@ Materiales del curso "Introducción a las Humanidades Digitales"
 | 9:00 a 9:30am |Presentación introductoria de profesores y de participantes |
 | 9:30 a 10:45am  | Sesión 1: Presentación inicial: trayectorias de las Humanidades Digitales, Maria José Afanador  |
 | 10:45 a 11:00am  | Receso |
-| 11:00 a 12:15am  | Sesión 2:  (posible) Datos y representación en las artes y las humanidades, Juan Camilo González|
+| 11:00 a 12:15am  | Sesión 2:  Del "paper" a "git", lo propio y lo comunitario |
 | 12:15 a 1:00pm  |Preguntas, comentarios y discusión |
 | 1:00 a 2:30pm  | Almuerzo |
 | 2:30 a 3:30pm  |Presentación sobre espacios institucionales de las HD, Maria José Afanador |
