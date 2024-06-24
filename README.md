@@ -20,7 +20,7 @@ Materiales del curso "Introducción a las Humanidades Digitales"
 | 1:00 a 2:30pm  | Almuerzo |
 | 2:30 a 3:30pm  |Sesión 3: Revisión y análisis de ejemplos de proyectos digitales, Juan Camilo y Maria José |
 | 4:00 a 4:20pm  | Receso |
-| 4:20 a 5:30pm  |Actividad grupal de revisión de proyectos digitales en artes y humanidades I, Juan Camilo y Maria José |
+| 4:20 a 5:30pm  |Actividad grupal de revisión de proyectos digitales en artes y humanidades I |
 
 | Día 2, miércoles 26 de junio  | Actividades |
 | ------------- | ------------- |
