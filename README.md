@@ -34,7 +34,7 @@ Materiales del curso "Introducción a las Humanidades Digitales"
 
 | Día 3, jueves 27 de junio  | Actividades |
 | ------------- | ------------- |
-| 9:00 a 10:45am |Continuación del taller, Juan Camilo y Maria José (O profundización: presentación de proyectos En Flujo, Inventar Colombia: una mirada desde el Orinoco)|
+| 9:00 a 10:45am |Continuación del taller. --Profundización: presentación de proyectos En Flujo, Inventar Colombia: una mirada desde el Orinoco)|
 | 10:45 a 11:00am |Receso|
 | 11:00am a 1:00pm |¿Cómo formular proyectos HD? Taller grupal: concebir un proyecto de HD, Juan Camilo y Maria José|
 | 1:00 a 2:30pm  |Almuerzo|
