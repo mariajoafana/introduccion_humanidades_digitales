@@ -102,6 +102,8 @@ Historias alternas de una calle en Singapur: http://citystories.sg/
 
 Mapear la ciudad para personas con discapacidad: https://sidewalk-chicago.cs.washington.edu/
 
+Green History Project: https://www.greenestreet.nyc
+
 ## Estudios clásicos
 
 Topos Text: https://topostext.org
