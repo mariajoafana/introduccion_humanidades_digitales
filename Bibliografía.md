@@ -6,3 +6,4 @@ Matthew K. Gold, Lauren F. Klein (eds.) (2012, 2016, 2019, 2023) *[Debates in th
    
 Berry, D.M. (2012). Introduction: Understanding the Digital Humanities. In: Berry, D.M. (eds) *Understanding Digital Humanities*. Palgrave Macmillan, London.
 
+Conceptos propuestos por Marsha Kinder: https://www.marshakinder.com/concepts.html
