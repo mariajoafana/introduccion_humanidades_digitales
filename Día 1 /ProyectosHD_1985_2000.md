@@ -2,8 +2,6 @@
 
 La primera oleada de estudios sobre Humanidades Digitales a finales de la década de 1990 y principios de la de 2000 tendió a centrarse en proyectos de digitalización a gran escala y en el establecimiento de infraestructuras tecnológicas. 
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
-
 Perseus Digital Library, 1987: http://www.perseus.tufts.edu/hopper/
 
 The Valley of the Shadow, 1993: https://valley.lib.virginia.edu
