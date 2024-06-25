@@ -96,9 +96,11 @@ Interfaz Quipu, historia de  https://interactive.quipu-project.com/#/es/quipu/li
 
 ## Urbanismo / Política de los espacios
 
-https://seoulofla.com/
+Definición, delimitación (y sus personas) de "Koreatown" en Los Ángeles: https://seoulofla.com/
 
-http://citystories.sg/
+Historias alternas de una calle en Singapur: http://citystories.sg/
+
+Mapear la ciudad para personas con discapacidad: https://sidewalk-chicago.cs.washington.edu/
 
 ## Estudios clásicos
 
