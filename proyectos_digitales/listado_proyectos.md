@@ -1,4 +1,4 @@
-## listado de proyectos digitales 
+## listado de proyectos digitales
 
 **Laboratorio de Humanidades Digitales Conacit, Argentina**
 https://hdlab.space
@@ -8,121 +8,132 @@ https://reviewsindh.pubpub.org
 
 **Arqueología**
 
-Archaeology Data Service: https://archaeologydataservice.ac.uk 
+Archaeology Data Service: https://archaeologydataservice.ac.uk
 
-MicroPasts: Crowd-sourcing: https://crowdsourced.micropasts.org/ 
+MicroPasts: Crowd-sourcing: https://crowdsourced.micropasts.org/
 
-Ariadne: https://eadh.org/projects/ariadne 
+Ariadne: https://eadh.org/projects/ariadne
 
-Artefacts: https://eadh.org/projects/artefacts 
+Artefacts: https://eadh.org/projects/artefacts
 
-**Historia** 
+**Historia**
 
-Slave Revolt in Jamaica: http://revolt.axismaps.com/  
+Slave Revolt in Jamaica: http://revolt.axismaps.com/
 
-Visualizing 19th Century New York: http://visualizingnyc.org/ 
+Visualizing 19th Century New York: http://visualizingnyc.org/
 
-Impresiones de un viaje a América (1870-1884): http://www.banrep.gov.co/impresiones-de-un-viaje/ 
+Impresiones de un viaje a América (1870-1884): http://www.banrep.gov.co/impresiones-de-un-viaje/
 
-Digital Harlem: https://revistas.uned.es/index.php/RHD/article/view/30503/27026 
+Digital Harlem: https://revistas.uned.es/index.php/RHD/article/view/30503/27026
 
-In Search of the Drowned: Testimonies and Testimonial Fragments of the Holocaust: https://eadh.org/projects/search-drowned-testimonies-and-testimonial-fragments-holocaust 
+In Search of the Drowned: Testimonies and Testimonial Fragments of the Holocaust: https://eadh.org/projects/search-drowned-testimonies-and-testimonial-fragments-holocaust
 
-**Literatura** 
+Historia del internet: https://neal.fun/internet-artifacts/
 
-Mapping the Republic of Letters:  http://republicofletters.stanford.edu/casestudies/grandtour.html 
+**Literatura**
 
-Database of Early English Playbooks: http://deep.sas.upenn.edu/  
+Mapping the Republic of Letters:  http://republicofletters.stanford.edu/casestudies/grandtour.html
 
-Project Twitter Literature (TwitLit): https://reviewsindh.pubpub.org/pub/project-twitter-literature/release/1 
+Database of Early English Playbooks: http://deep.sas.upenn.edu/
 
-The Princeton Prosody Archive: https://reviewsindh.pubpub.org/pub/princeton-prosody-archive/release/5  
+Project Twitter Literature (TwitLit): https://reviewsindh.pubpub.org/pub/project-twitter-literature/release/1
 
-Distant Reading for European Literary History: https://eadh.org/projects/distant-reading-european-literary-history 
+The Princeton Prosody Archive: https://reviewsindh.pubpub.org/pub/princeton-prosody-archive/release/5
 
-**Lingüística** 
+Distant Reading for European Literary History: https://eadh.org/projects/distant-reading-european-literary-history
 
-ALCIDE (Analysis of Language and Content in a Digital Environment): https://dh.fbk.eu/projects/alcide-analysis-language-and-content-digital-environment 
+**Lingüística**
 
-CALLIDUS - Vocabulary Acquisition in Latin using Corpus-based Methods: https://eadh.org/projects/callidus-vocabulary-acquisition-latin-using-corpus-based-methods TICHA. A Digital Text Explorer of Colonial Zapotec: https://reviewsindh.pubpub.org/pub/ticha/release/14  
+ALCIDE (Analysis of Language and Content in a Digital Environment): https://dh.fbk.eu/projects/alcide-analysis-language-and-content-digital-environment
 
-**Musicología** 
+CALLIDUS - Vocabulary Acquisition in Latin using Corpus-based Methods: https://eadh.org/projects/callidus-vocabulary-acquisition-latin-using-corpus-based-methods TICHA. A Digital Text Explorer of Colonial Zapotec: https://reviewsindh.pubpub.org/pub/ticha/release/14
 
-The National Archive of Irish Composes: https://arrow.dit.ie/naic/ 
+**Musicología**
 
-The C.M.M.E Project: http://www.cmme.org/about 
+The National Archive of Irish Composes: https://arrow.dit.ie/naic/
 
-music21: https://web.mit.edu/music21/ 
+The C.M.M.E Project: http://www.cmme.org/about
 
-Connections in Sound: https://reviewsindh.pubpub.org/pub/connections-in-sound/release/2 
+music21: https://web.mit.edu/music21/
 
-AudibleRVA: https://reviewsindh.pubpub.org/pub/audiblerva/release/2 
+Connections in Sound: https://reviewsindh.pubpub.org/pub/connections-in-sound/release/2
 
-Paisajes sonors históricos, c.1200-c.1800: https://eadh.org/projects/historical-soundscapes  
+AudibleRVA: https://reviewsindh.pubpub.org/pub/audiblerva/release/2
 
-**Artes escénicas**  
+Paisajes sonors históricos, c.1200-c.1800: https://eadh.org/projects/historical-soundscapes
 
-Dunham’s Data: https://www.dunhamsdata.org/ 
+**Artes escénicas**
 
-The Juba Project. Early Minstresly in Britain, 1842-1852: https://www.utm.utoronto.ca/~w3minstr/ 
+Dunham’s Data: https://www.dunhamsdata.org/
 
-Visualizing Broadway: http://visualizingbroadway.com/ 
+The Juba Project. Early Minstresly in Britain, 1842-1852: https://www.utm.utoronto.ca/~w3minstr/
 
-RDH: https://reviewsindh.pubpub.org/pub/radio-free-stein/release/2  
+Visualizing Broadway: http://visualizingbroadway.com/
 
-RDH: https://reviewsindh.pubpub.org/pub/la-frontera/release/1  
+RDH: https://reviewsindh.pubpub.org/pub/radio-free-stein/release/2
 
+RDH: https://reviewsindh.pubpub.org/pub/la-frontera/release/1
 
-**Justicia social, activismo y periodismo** 
+**Justicia social, activismo y periodismo**
 
-Black Meme: https://externalpages.org/#legacyrussell 
+Black Meme: https://externalpages.org/#legacyrussell
 
-Redes migrantes sin fronteras: https://redes.dh.tamu.edu/  
+Redes migrantes sin fronteras: https://redes.dh.tamu.edu/
 
-Tramas de la memoria: re-existencias y derecho a la ciudad en la comuna San José: https://www.colaboratoriopluriversos.org/sanjose 
+Tramas de la memoria: re-existencias y derecho a la ciudad en la comuna San José: https://www.colaboratoriopluriversos.org/sanjose
 
-Cosita seria: hartas del acoso sexual callejero: https://www.colaboratoriopluriversos.org/cositaseria 
+Cosita seria: hartas del acoso sexual callejero: https://www.colaboratoriopluriversos.org/cositaseria
 
-Mapacleta: https://www.colaboratoriopluriversos.org/mapacleta 
+Mapacleta: https://www.colaboratoriopluriversos.org/mapacleta
 
- 
+Shipmap (entre podcast y visualización de datos narrativa): https://www.shipmap.org/
 
-**Estudios clásicos**  
+Interfaz Quipu, historia de  https://interactive.quipu-project.com/#/es/quipu/listen/intronode?currentTime=0&view=thread
 
-Topos Text: https://topostext.org 
+**Urbanismo / Política de los espacios**
 
-Perseus Digital Library: https://www.perseus.tufts.edu/hopper/ 
+https://seoulofla.com/
 
-Ancient Athens 3D: http://www.ancientathens3d.com/ 
+http://citystories.sg/
 
-Filosofía y estudios sobre religión: 
+**Estudios clásicos**
 
-Islam Burkina Faso Collection: https://reviewsindh.pubpub.org/pub/islam-burkina-faso-collection/release/3 
+Topos Text: https://topostext.org
 
-Six Degrees of Francis Bacon: http://www.sixdegreesoffrancisbacon.com/about  
+Perseus Digital Library: https://www.perseus.tufts.edu/hopper/
 
-The InPhO Project: https://www.inphoproject.org/  
+Ancient Athens 3D: http://www.ancientathens3d.com/
 
+Filosofía y estudios sobre religión:
 
-**Lexicografía**  
+Islam Burkina Faso Collection: https://reviewsindh.pubpub.org/pub/islam-burkina-faso-collection/release/3
 
-Digital Lexicography: https://tcdh.uni-trier.de/en/thema/digital-lexicography 
+Six Degrees of Francis Bacon: http://www.sixdegreesoffrancisbacon.com/about
 
-European Lexicographic Infrastructure: https://elex.is/  
+The InPhO Project: https://www.inphoproject.org/
 
-Lexicon Poeticum: https://dhnb.eu/projects/lexicon-poeticum/  
+**Lexicografía**
 
+Digital Lexicography: https://tcdh.uni-trier.de/en/thema/digital-lexicography
 
-**Historia del Arte**  
+European Lexicographic Infrastructure: https://elex.is/
 
-Arte Colonial Americano (ARCA): https://arca.uniandes.edu.co/  
+Lexicon Poeticum: https://dhnb.eu/projects/lexicon-poeticum/
 
-Closer to Van Eyck: http://legacy.closertovaneyck.be/# 
+**Historia del Arte**
 
-Open Arts Images: https://eadh.org/projects/open-art-images 
+Arte Colonial Americano (ARCA): https://arca.uniandes.edu.co/
 
-Inventing Abstraction: https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/  
+Closer to Van Eyck: http://legacy.closertovaneyck.be/#
+
+Open Arts Images: https://eadh.org/projects/open-art-images
+
+Inventing Abstraction: https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/
 
 **Artes**
 
- 
+https://olafureliasson.net/artwork/moon-2013
+
+https://artsexperiments.withgoogle.com/lifetags/
+
+https://cinemetrics.site/#/info
