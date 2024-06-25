@@ -1,5 +1,11 @@
 ## listado de proyectos digitales 
 
+**Laboratorio de Humanidades Digitales Conacit, Argentina**
+https://hdlab.space
+
+**Reviews in Digital Humanities**
+https://reviewsindh.pubpub.org
+
 **Arqueología**
 
 Archaeology Data Service: https://archaeologydataservice.ac.uk 
