@@ -45,3 +45,7 @@ https://sutty.nl/
 Github pages ofrece servicios de servidores básicos de manera gratuita.
 
 https://pages.github.com/
+
+## Herramientas generales
+
+Voyant Tools sirve para analizar textos con técnicas de graficación: https://voyant-tools.org/
