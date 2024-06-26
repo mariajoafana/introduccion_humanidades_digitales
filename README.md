@@ -24,7 +24,7 @@ Materiales del curso "Introducción a las Humanidades Digitales"
 
 | Día 2, miércoles 26 de junio  | Actividades |
 | ------------- | ------------- |
-| 9:00 a 10:45am  | Sesión 4: Prácticas y métodos de las HD, Maria José|
+| 9:00 a 10:45am  | Sesión 4: Prácticas y metodologías de las HD, Maria José|
 | 10:45 a 11:00am  | Receso |
 | 11:00 a 1:00pm  | Sesión 5: Proyectos digitales desde adentro, Juan Camilo |
 | 1:00 a 2:30pm  |Almuerzo|
