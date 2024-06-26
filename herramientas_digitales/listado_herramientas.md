@@ -32,8 +32,9 @@
 - MapLibre. Open-source mapping libraries 
 - LeafLet. An open-source JavaScript library  for mobile-friendly interactive maps. 
 - Grafoscopio. Publicación e investigación reproducible, documentación interactiva, visualización flexible y aǵil de datos 
- 
 
+ *Herramientas para la investigación*
+ - https://scite.ai/assistant Es una herramienta de IA que está enfocada a buscar artículos científicos y que funciona como un asistente de investigación. El prompt puede escribirse en español o en inglés. 
  
 
  
