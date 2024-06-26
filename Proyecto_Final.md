@@ -13,11 +13,17 @@ Esperamos que puedan reconocer su espacio de participación en el amplio ecosist
 1. Título
 2. Resumen
 3. Pregunta-problema
-4. ¿Cuáles son mis fuentes para el proyecto?
+4. ¿Cuáles son mis fuentes para el proyecto?*
 5. Tecnologías que requiere para poderlo realizar
 6. Equipo de trabajo: roles y experticia (se los pueden imaginar o inventar si no conocen a alguien que pueda participar en alguno de estos roles).
 7. Cronograma
 8. Presupuesto
+
+*Sobre las fuentes hay diferentes preguntas y opciones a considerar para trabajarlas en el marco de las HD: 
+Preguntas clave: ¿Puedo obtenerlas, organizarlas, transformarlas o analizarlas con alguna metodología digital? (digitalización, procesamiento y creación de una colección de fuentes; web scraping, modelado y visualización de datos (análisis geoespacial, análisis de redes, análisis de texto con técnicas computacionales.)
+Una posibilidad: Ya analicé mis fuentes con métodos cualitativos, ahora lo que quisiera es construir una narrativa digital donde pueda comunicar las interpretaciones que ya construí a partir de mis datos. 
+Revise: ¿qué proyectos similares existen? ¿Con qué investigaciones/proyectos digitales existentes me puedo poner en diálogo para crear mi propuesta? ¿En qué intersecciones disciplinares se sitúa mi propuesta? 
+
 
 ## Convocatorias 
 
