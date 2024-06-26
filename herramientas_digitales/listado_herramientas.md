@@ -15,23 +15,23 @@
 
 
 *Herramientas de publicación digital* 
--Omeka & Neatline. Omeka.net is web-publishing platform that allows anyone to create or collaborate on a website to display collections and build digital exhibitions. Neatline is --Omeka's timeline/mapping plugin available in omeka.org installations only. 
--Scalar. Great tool for non-linear narratives. Options and support available for the novice and the more advanced users. 
--StoryMap JS. Looking for a easy to use tool in your class. This is it! Requires login via your Google account. 
--TimeMapper. Timelines on the go. 
--CollectionBuilder. An open source framwork for creating digital collection and axhibit websites that are driven by metadata and powered by modern static web technology. 
--Mukurtu: An Indigenous Archive and Publishing Tool: content management system and digital access tool for cultural heritage, built for and in ongoing dialogue with indigenous communities. 
+- Omeka & Neatline. Omeka.net is web-publishing platform that allows anyone to create or collaborate on a website to display collections and build digital exhibitions. Neatline is - Omeka's timeline/mapping plugin available in omeka.org installations only. 
+- Scalar. Great tool for non-linear narratives. Options and support available for the novice and the more advanced users. 
+- StoryMap JS. Looking for a easy to use tool in your class. This is it! Requires login via your Google account. 
+- TimeMapper. Timelines on the go. 
+- CollectionBuilder. An open source framwork for creating digital collection and axhibit websites that are driven by metadata and powered by modern static web technology. 
+- Mukurtu: An Indigenous Archive and Publishing Tool: content management system and digital access tool for cultural heritage, built for and in ongoing dialogue with indigenous communities. 
 
 *Herramientas de visualización:* 
--D3. Custom dynamic visualizations with unparalleled flexibility. 
--Gephi. Open-source platform for visualizing and manipulating large graphs. 
--Paper Machines. A plugin for Zotero that makes cutting-edge topic-modeling analysis accessible to humanities researchers without requiring extensive computational resources or technical knowledge. 
--Textal.Free smartphone app to analyze websites, tweet streams, & documents. You can generate graphs and statics, and share data and visualizations as you like. 
--Voyant tools.  A web-based reading and analysis environment for digital texts.  
--Palladio. Visualize complex historical data with ease.  
--MapLibre. Open-source mapping libraries 
--LeafLet. An open-source JavaScript library  for mobile-friendly interactive maps. 
--Grafoscopio. Publicación e investigación reproducible, documentación interactiva, visualización flexible y aǵil de datos 
+- D3. Custom dynamic visualizations with unparalleled flexibility. 
+- Gephi. Open-source platform for visualizing and manipulating large graphs. 
+- Paper Machines. A plugin for Zotero that makes cutting-edge topic-modeling analysis accessible to humanities researchers without requiring extensive computational resources or technical knowledge. 
+- Textal.Free smartphone app to analyze websites, tweet streams, & documents. You can generate graphs and statics, and share data and visualizations as you like. 
+- Voyant tools.  A web-based reading and analysis environment for digital texts.  
+- Palladio. Visualize complex historical data with ease.  
+- MapLibre. Open-source mapping libraries 
+- LeafLet. An open-source JavaScript library  for mobile-friendly interactive maps. 
+- Grafoscopio. Publicación e investigación reproducible, documentación interactiva, visualización flexible y aǵil de datos 
  
 
  
