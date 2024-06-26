@@ -13,10 +13,11 @@ Esperamos que puedan reconocer su espacio de participación en el amplio ecosist
 1. Título
 2. Resumen
 3. Pregunta-problema
-4. Tecnologías que requiere para poderlo realizar
-5. Equipo de trabajo: roles y experticia (se los pueden imaginar o inventar si no conocen a alguien que pueda participar en alguno de estos roles).
-6. Cronograma
-7. Presupuesto
+4. ¿Cuáles son mis fuentes para el proyecti?
+5. Tecnologías que requiere para poderlo realizar
+6. Equipo de trabajo: roles y experticia (se los pueden imaginar o inventar si no conocen a alguien que pueda participar en alguno de estos roles).
+7. Cronograma
+8. Presupuesto
 
 ## Convocatorias 
 
