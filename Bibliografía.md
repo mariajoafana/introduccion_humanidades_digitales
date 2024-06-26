@@ -20,9 +20,11 @@ O'Sullivan, James (ed.) (2022). The Bloomsbury Handbook to the Digital Humanitie
 "Big? Smart? Clean? Messy? Data in the Humanities" by Christof Schöch (University of Trier, Germany)
 
 **Sobre analítica cultural**
+
 Manovich, Lev. 2016. “The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics.” Journal of Cultural Analytics 1 (1). https://doi.org/10.22148/16.004.
 
 **Sobre métodos**
+
 Clement, Tanya. “Text Analysis, Data Mining, and Visualizations in Literary Scholarship.” N.p.: n.p., n.d. N. pag. Literary Studies in the Digital Age. MLA Commons. Web. 5 Feb. 2014.
 
 Cooney, Charles, Mark Olsen, and Glenn Roe. “The Notion of the Texbase: Design and Use of Textbases in the Humanities.” N.p.: n.p., n.d. N. pag. Literary Studies in the Digital Age. MLA Commons. Web. 5 Feb. 2014.
