@@ -8,6 +8,8 @@ Berry, D.M. (2012). Introduction: Understanding the Digital Humanities. In: Berr
 
 Conceptos propuestos por Marsha Kinder: https://www.marshakinder.com/concepts.html
 
+O'Sullivan, James (ed.) (2022). The Bloomsbury Handbook to the Digital Humanities. Bloomsbury Publishing.
+
 
 **Sobre datos en las humanidades digitales**
 
@@ -19,3 +21,29 @@ Conceptos propuestos por Marsha Kinder: https://www.marshakinder.com/concepts.ht
 
 **Sobre analítica cultural**
 Manovich, Lev. 2016. “The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics.” Journal of Cultural Analytics 1 (1). https://doi.org/10.22148/16.004.
+
+**Sobre métodos**
+Clement, Tanya. “Text Analysis, Data Mining, and Visualizations in Literary Scholarship.” N.p.: n.p., n.d. N. pag. Literary Studies in the Digital Age. MLA Commons. Web. 5 Feb. 2014.
+
+Cooney, Charles, Mark Olsen, and Glenn Roe. “The Notion of the Texbase: Design and Use of Textbases in the Humanities.” N.p.: n.p., n.d. N. pag. Literary Studies in the Digital Age. MLA Commons. Web. 5 Feb. 2014.
+
+Drucker, Johanna. “Graphesis: Visual Knowledge Production and Representation”. Poetess Archive Journal 2.1 (2010): 1-50. Web.
+
+Drucker, Johanna. “Humanities Approaches to Graphical Display.” Digital Humanities Quarterly 5.1 (2011): n. pag. Web.
+
+Lang, Susan and Craig Baehr. “Data Mining: A Hybrid Methodology for Complex and Dynamic Research”. College Composition and Communication 64:1 (2012): 172-194.
+
+Moretti, Franco. “Graphs: Maps, Graphs, Trees: Abstract Models for Literary History”. New Left Review: 28 (2003): 67-93.
+
+Poole, Alex H. “Now is the Future Now? The Urgency of Digital Curation in the Digital Humanities.” Digital Humanities Quarterly 7.2 (2013): n. pag. Digital Humanities Quarterly. The Alliance of Digital Humanities Organizations, 30 Jan. 2014. Web. 5 Feb. 2014.
+
+Radzikowsa, Milena, Stan Ruecker, and Stéfan Sinclair. “Information Visualization for Humanities Scholars.” N.p.: n.p., n.d. N. pag. Literary Studies in the Digital Age. MLA Commons. Web. 5 Feb. 2014.
+
+Rogers, Richard. Digital Methods. Cambridge: MIT, 2013. Print.
+
+Drucker, Johanna. “Humanistic Theory and Digital Scholarship.” Debates in the Digital Humanities. By Matthew K.. Gold. Minneapolis: Univ Of Minnesota, 2012. Print.
+
+
+
+
+
