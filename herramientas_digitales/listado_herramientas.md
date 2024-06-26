@@ -2,7 +2,7 @@
 
 *Minería de datos, codificación y análisis de texto* 
 
-- [Annotation Studio. A suite of collaborative web-based annotation tools.](https://www.annotationstudio.org) 
+- [Annotation Studio](https://www.annotationstudio.org)
 - Juxta. Juxta is an open-source tool for comparing and collating multiple witnesses to a single textual work. Originally designed to aid scholars and editors examine the history of a text from manuscript to print versions, Juxta offers a number of possibilities for humanities computing and textual scholarship. 
 - MALLET. MALLET (MAchine Learning for LanguagE Toolkit) is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text. 
 - NotaBene. Annotate course material online, either for yourself or to discuss it with others. 
