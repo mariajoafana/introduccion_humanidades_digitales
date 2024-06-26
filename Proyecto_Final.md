@@ -21,11 +21,11 @@ Esperamos que puedan reconocer su espacio de participación en el amplio ecosist
 
 *Sobre las fuentes hay diferentes preguntas y opciones a considerar para trabajarlas en el marco de las HD: 
 
-Preguntas clave: ¿Puedo obtenerlas, organizarlas, transformarlas o analizarlas con alguna metodología digital? (digitalización, procesamiento y creación de una colección de fuentes; web scraping, modelado y visualización de datos (análisis geoespacial, análisis de redes, análisis de texto con técnicas computacionales.)
+**Preguntas clave**: ¿Puedo obtenerlas, organizarlas, transformarlas o analizarlas con alguna metodología digital? (digitalización, procesamiento y creación de una colección de fuentes; web scraping, modelado y visualización de datos (análisis geoespacial, análisis de redes, análisis de texto con técnicas computacionales.)
 
-Una posibilidad: Ya analicé mis fuentes con métodos cualitativos, ahora lo que quisiera es construir una narrativa digital donde pueda comunicar las interpretaciones que ya construí a partir de mis datos.
+**Una posibilidad**: Ya analicé mis fuentes con métodos cualitativos, ahora lo que quisiera es construir una narrativa digital donde pueda comunicar las interpretaciones que ya construí a partir de mis datos.
 
-Revise: ¿qué proyectos similares existen? ¿Con qué investigaciones/proyectos digitales existentes me puedo poner en diálogo para crear mi propuesta? ¿En qué intersecciones disciplinares se sitúa mi propuesta? 
+**Revise:** ¿qué proyectos similares existen? ¿Con qué investigaciones/proyectos digitales existentes me puedo poner en diálogo para crear mi propuesta? ¿En qué intersecciones disciplinares se sitúa mi propuesta? 
 
 
 ## Convocatorias 
