@@ -34,7 +34,8 @@
 - Grafoscopio. Publicación e investigación reproducible, documentación interactiva, visualización flexible y aǵil de datos 
 
 *Herramientas de IA para la investigación científica*
-- https://scite.ai/
+- https://scite.ai/ Es un asistente de investigación que propone los artículos (adicionalmente al texto) que puedden apoyar una aseveración o pregunta de investigación
+- https://gender-decoder.katmatfield.com/ Herramienta que permite identificar los sesgos de género que esiten dentro de un texto determinado.
 
  
 
