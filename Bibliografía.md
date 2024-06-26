@@ -10,8 +10,12 @@ Conceptos propuestos por Marsha Kinder: https://www.marshakinder.com/concepts.ht
 
 
 **Sobre datos en las humanidades digitales**
+
 “An Introduction to Humanities Data Curation” by Julia Flanders (Northeastern University) and Trevor Muñoz (Maryland Institute for Technology in the Humanities)
 
 "Humanities Data: A Necessary Contradiction" by Miriam Posner (UCLA)
 
 "Big? Smart? Clean? Messy? Data in the Humanities" by Christof Schöch (University of Trier, Germany)
+
+**Sobre analítica cultural**
+Manovich, Lev. 2016. “The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics.” Journal of Cultural Analytics 1 (1). https://doi.org/10.22148/16.004.
