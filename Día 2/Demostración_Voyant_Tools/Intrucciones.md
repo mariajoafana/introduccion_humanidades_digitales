@@ -1,13 +1,6 @@
 
-##Demostración de análisis textual automatizado con Voyant Tools
+**Demostración de análisis textual automatizado con Voyant Tools**
 El análisis de corpus es un tipo de análisis de contenido que permite hacer comparaciones a gran escala sobre un conjunto de textos o corpus. Voy a presentarles un flujo metológico con la herramienta [Voyant Tools](https://voyant-tools.org)
-
-1. El primer paso es crear el corpus. Voyant permite subir textos en varios tipos de formato (HTML, XML, PDF, RTF, y MS Word)
-
-3. https://voyant-tools.org
-Ingrese a: 
-
-
 
 
 *Recursos adicionales para seguir explorando la herramienta:*
