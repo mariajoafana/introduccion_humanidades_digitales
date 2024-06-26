@@ -28,7 +28,7 @@ Materiales del curso "Introducción a las Humanidades Digitales"
 | 10:45 a 11:00am  | Receso |
 | 11:00 a 1:00pm  | Sesión 5: Proyectos digitales desde adentro, Juan Camilo |
 | 1:00 a 2:30pm  |Almuerzo|
-| 2:30 a 3:30pm  |Demostración con herramientas digitales, Juan Camilo González y Maria José Afanador|
+| 2:30 a 3:30pm  |Sesión 6: Demostración con herramientas digitales, Juan Camilo González y Maria José Afanador|
 | 3:30 a 3:45pm  |Receso|
 | 3:45 a 5:30pm  |Taller metodologías de proyectos, Juan Camilo y Maria José |
 
