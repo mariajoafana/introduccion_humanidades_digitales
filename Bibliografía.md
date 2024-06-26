@@ -7,3 +7,11 @@ Matthew K. Gold, Lauren F. Klein (eds.) (2012, 2016, 2019, 2023) *[Debates in th
 Berry, D.M. (2012). Introduction: Understanding the Digital Humanities. In: Berry, D.M. (eds) *Understanding Digital Humanities*. Palgrave Macmillan, London.
 
 Conceptos propuestos por Marsha Kinder: https://www.marshakinder.com/concepts.html
+
+
+**Sobre datos en las humanidades digitales**
+“An Introduction to Humanities Data Curation” by Julia Flanders (Northeastern University) and Trevor Muñoz (Maryland Institute for Technology in the Humanities)
+
+"Humanities Data: A Necessary Contradiction" by Miriam Posner (UCLA)
+
+"Big? Smart? Clean? Messy? Data in the Humanities" by Christof Schöch (University of Trier, Germany)
