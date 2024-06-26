@@ -16,6 +16,8 @@ Ariadne: https://eadh.org/projects/ariadne
 
 Artefacts: https://eadh.org/projects/artefacts
 
+Reconstrucción digital de Tenochtitlán: https://tenochtitlan.thomaskole.nl/es.html
+
 ## Historia
 
 Slave Revolt in Jamaica: http://revolt.axismaps.com/
