@@ -33,6 +33,8 @@
 - LeafLet. An open-source JavaScript library  for mobile-friendly interactive maps. 
 - Grafoscopio. Publicación e investigación reproducible, documentación interactiva, visualización flexible y aǵil de datos 
  
+*Herramientas de IA para la investigación científica*
+_https://scite.ai/
 
  
 
