@@ -4,9 +4,11 @@ El análisis de corpus es un tipo de análisis de contenido que permite hacer co
 
 En [este enlace](https://docs.google.com/presentation/d/1lY6XS6NPzIqf-lfzCP0JwCKIja_H40ygbnquPnsybNA/edit?usp=share_link) pueden ver detalles sobre Voyant Tools.
 
-*Recursos adicionales para seguir explorando la herramienta:*
+En este repositorio pueden descargar textos de ejemplo para utilizar la herramienta: https://zenodo.org/records/2547051
+Estos son los corpus que se utilizan en el tutorial de Programming Historian sobre Web Scraping: Silvia Gutiérrez De la Torre, "Análisis de corpus con Voyant Tools", Programming Historian en español 3 (2019), https://doi.org/10.46430/phes0043.
 
-Silvia Gutiérrez De la Torre, "Análisis de corpus con Voyant Tools", Programming Historian en español 3 (2019), https://doi.org/10.46430/phes0043.
+
+*Recursos adicionales para seguir explorando la herramienta:*
 
 Laboratorio de Humanidades Digitales, Conacit Argentina, Exploración del contenido de Relación de un viaje al Río de la Plata con Voyant Tools, una herramienta de lectura distante y análisis estadístico de textos digitales. https://hdlab.space/Relacion-de-un-viaje/voyant/
 
@@ -25,3 +27,8 @@ Recogito es una iniciativa de la Red Pelagios, desarrollada bajo la dirección d
 -Descarga la tabla con los datos anotados.
 
 Recogito tiene tutoriales para aprender a usar la herramienta.
+
+**Herramienta para desarrollar colecciones de objetos/fuentes**
+
+CollectionBuilder is an open source framework for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology. https://collectionbuilder.github.io
+Learn How it WorksChoose a Template to Start a Projec
