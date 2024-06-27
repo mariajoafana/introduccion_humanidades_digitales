@@ -45,6 +45,9 @@ Rogers, Richard. Digital Methods. Cambridge: MIT, 2013. Print.
 
 Drucker, Johanna. “Humanistic Theory and Digital Scholarship.” Debates in the Digital Humanities. By Matthew K.. Gold. Minneapolis: Univ Of Minnesota, 2012. Print.
 
+## Manifiestos
+
+Digital Humanities Manifiesto 2.0: https://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
 
 
 
