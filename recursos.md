@@ -52,4 +52,5 @@ Voyant Tools sirve para analizar textos con técnicas de graficación: https://v
 
 ## Valoración de proyectos digitales en Humanidades Digitales
 [Modelo de valoración proyectos HD](https://drive.google.com/file/d/1kzBpG2qkcKYDB-Lp6cPP93i0ALicMRNX/view?usp=sharing), Universidad de los Andes
+
 [Tabla de valoración proyectos HD](https://docs.google.com/spreadsheets/d/1Yhh9-FPCzsJIB1DSfjF_9EocUXUIvp4A85hMqqO5rDc/edit?usp=sharing), Universidad de los Andes
