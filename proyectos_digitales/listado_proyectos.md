@@ -106,6 +106,8 @@ Mapear la ciudad para personas con discapacidad: https://sidewalk-chicago.cs.was
 
 Green History Project: https://www.greenestreet.nyc
 
+Inventar Colombia - Una mirada desde el Orinoco: https://bejucoo.github.io/inventar-colombia/
+
 ## Estudios clásicos
 
 Topos Text: https://topostext.org
@@ -151,3 +153,7 @@ https://cinemetrics.site/#/info
 https://www.marshakinder.com/multi/m4.html
 
 Tracing the decay of Fiction: https://vimeo.com/8627902
+
+Partituras gráficas como estructuras de animación: https://dddrawings.com/notations/
+
+Proyectos de laboratorio EnFlujo (arte, ciencia y periodismo): https://enflujo.com/proyectos/
