@@ -54,6 +54,8 @@ Voyant Tools sirve para analizar textos con técnicas de graficación: https://v
 
 Laboratorio de Historia Digitial Universidad Católica de Chile: https://www.archivosdearte.org/
 
+MetaLab de Harvard: https://mlml.io/
+
 ## Valoración de proyectos digitales en Humanidades Digitales
 [Modelo de valoración proyectos HD](https://drive.google.com/file/d/1kzBpG2qkcKYDB-Lp6cPP93i0ALicMRNX/view?usp=sharing), Universidad de los Andes
 
