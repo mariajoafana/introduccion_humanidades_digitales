@@ -32,6 +32,8 @@ In Search of the Drowned: Testimonies and Testimonial Fragments of the Holocaust
 
 Historia del internet: https://neal.fun/internet-artifacts/
 
+Inventar Colombia: una mirada desde el Orinoco: https://inventarcolombia.uniandes.edu.co/
+
 ## Literatura
 
 Mapping the Republic of Letters:  http://republicofletters.stanford.edu/casestudies/grandtour.html
