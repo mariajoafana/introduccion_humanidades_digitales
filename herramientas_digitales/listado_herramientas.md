@@ -1,8 +1,9 @@
 **Selección de herramientas para investigación digital** 
 
-*Minería de datos, codificación y análisis de texto* 
+*Transcripción, Minería de datos, codificación y análisis de texto* 
 
 - [Annotation Studio](https://www.annotationstudio.org)
+- Transkribus. Transkribus enables you to automatically recognise text easily, edit seamlessly, collaborate effortlessly, and even train your custom AI for digitizing and interpreting historical documents of any form. https://www.transkribus.org/
 - Juxta. Juxta is an open-source tool for comparing and collating multiple witnesses to a single textual work. Originally designed to aid scholars and editors examine the history of a text from manuscript to print versions, Juxta offers a number of possibilities for humanities computing and textual scholarship. 
 - MALLET. MALLET (MAchine Learning for LanguagE Toolkit) is a Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text. 
 - NotaBene. Annotate course material online, either for yourself or to discuss it with others. 
