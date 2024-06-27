@@ -50,6 +50,10 @@ https://pages.github.com/
 
 Voyant Tools sirve para analizar textos con técnicas de graficación: https://voyant-tools.org/
 
+## Centros, laboratorios y herramientas
+
+Laboratorio de Historia Digitial Universidad Católica de Chile: https://www.archivosdearte.org/
+
 ## Valoración de proyectos digitales en Humanidades Digitales
 [Modelo de valoración proyectos HD](https://drive.google.com/file/d/1kzBpG2qkcKYDB-Lp6cPP93i0ALicMRNX/view?usp=sharing), Universidad de los Andes
 
