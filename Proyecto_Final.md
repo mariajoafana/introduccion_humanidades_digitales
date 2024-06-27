@@ -37,6 +37,7 @@ Aquí pueden encontrar una lista de posibles convocatorias a las que pueden pres
 - Wikimedia: https://meta.m.wikimedia.org/wiki/Grants:Programs/Wikimedia_Research_%26_Technology_Fund/Wikimedia_Research_Fund
 - https://www.thebritishacademy.ac.uk/programmes/oda-challenge-oriented-research-grants-2024/?utm_source=UK+Collaborative+on+Development+Research+List&utm_campaign=24e1321c3a-EMAIL_CAMPAIGN_2018_07_06_09_59_COPY_01&utm_medium=email&utm_term=0_ebeb154498-24e1321c3a-1285048337
 - https://novus.tec.mx/es Es una convocatoria anual que permite hacer proyectos osbre diversos temas, incluyendo proyectos interintitucionales e internacionales
+- Becas del Critical Digital Humanities Initiative de University of Toronto: https://dhn.utoronto.ca/funding/
 
 ## Recursos
 
