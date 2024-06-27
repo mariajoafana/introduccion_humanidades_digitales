@@ -20,7 +20,8 @@
 - StoryMap JS. Looking for a easy to use tool in your class. This is it! Requires login via your Google account. 
 - TimeMapper. Timelines on the go. 
 - CollectionBuilder. An open source framwork for creating digital collection and axhibit websites that are driven by metadata and powered by modern static web technology. 
-- Mukurtu: An Indigenous Archive and Publishing Tool: content management system and digital access tool for cultural heritage, built for and in ongoing dialogue with indigenous communities. 
+- Mukurtu: An Indigenous Archive and Publishing Tool: content management system and digital access tool for cultural heritage, built for and in ongoing dialogue with indigenous communities.
+- Serie Mini: https://github.com/srsergiorodriguez/serie-mini y https://srsergiorodriguez.github.io/serie-mini/
 
 *Herramientas de visualización:* 
 - D3. Custom dynamic visualizations with unparalleled flexibility. 
