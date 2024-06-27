@@ -56,6 +56,8 @@ ALCIDE (Analysis of Language and Content in a Digital Environment): https://dh.f
 
 CALLIDUS - Vocabulary Acquisition in Latin using Corpus-based Methods: https://eadh.org/projects/callidus-vocabulary-acquisition-latin-using-corpus-based-methods TICHA. A Digital Text Explorer of Colonial Zapotec: https://reviewsindh.pubpub.org/pub/ticha/release/14
 
+Zapoteco de Tlacochahuaya, diccionario hablado en línea: https://talkingdictionary.swarthmore.edu/tlacochahuaya/?lang=es
+
 ## Musicología
 
 The National Archive of Irish Composes: https://arrow.dit.ie/naic/
