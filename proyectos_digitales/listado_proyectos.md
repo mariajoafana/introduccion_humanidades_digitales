@@ -11,6 +11,8 @@ https://reviewsindh.pubpub.org
 
 ## Arqueología
 
+Museo Virtual del Laboratorio de Arte y Arqueología Andina: https://badac.uniandes.edu.co/rap/museo/
+
 Archaeology Data Service: https://archaeologydataservice.ac.uk
 
 MicroPasts: Crowd-sourcing: https://crowdsourced.micropasts.org/
@@ -37,7 +39,10 @@ Historia del internet: https://neal.fun/internet-artifacts/
 
 Inventar Colombia: una mirada desde el Orinoco: https://inventarcolombia.uniandes.edu.co/
 
+
 ## Literatura
+
+Cartografía de Literatura Digital Latinoamericana: https://www.cartografiadigital.cl/map
 
 Mapping the Republic of Letters:  http://republicofletters.stanford.edu/casestudies/grandtour.html
 
@@ -52,6 +57,8 @@ Distant Reading for European Literary History: https://eadh.org/projects/distant
 La Iliada: https://moebio.com/iliad/
 
 Rayuela: https://moebio.com/research/rayuela/
+
+Biblioteca Digital Soledad Acosta de Samper: https://soledadacosta.uniandes.edu.co/
 
 ## Lingüística
 
@@ -148,6 +155,12 @@ Closer to Van Eyck: http://legacy.closertovaneyck.be/#
 Open Arts Images: https://eadh.org/projects/open-art-images
 
 Inventing Abstraction: https://www.moma.org/interactives/exhibitions/2012/inventingabstraction/
+
+Banana Craze: https://bananacraze.uniandes.edu.co/
+
+Viajeros del Orinoco: https://biblioteca.uniandes.edu.co/proyectos/viajeros-orinoco/index.html 
+
+
 
 ## Artes
 
