@@ -1,5 +1,8 @@
 # Listado de proyectos digitales
 
+**Recursos para buscar**
+Revista de Humanidades Digitales: https://revistas.uned.es/index.php/RHD
+
 **Laboratorio de Humanidades Digitales Conacit, Argentina**
 https://hdlab.space
 
@@ -84,11 +87,11 @@ RDH: https://reviewsindh.pubpub.org/pub/radio-free-stein/release/2
 
 RDH: https://reviewsindh.pubpub.org/pub/la-frontera/release/1
 
-## Justicia social, activismo y periodismo
+## Justicia social, activismo, periodismo, humanidades públicas
 
 Black Meme: https://externalpages.org/#legacyrussell
 
-Redes migrantes sin fronteras: https://redes.dh.tamu.edu/
+Redes migrantes sin fronteras: https://www.redesmigrantes.org/
 
 Tramas de la memoria: re-existencias y derecho a la ciudad en la comuna San José: https://www.colaboratoriopluriversos.org/sanjose
 
@@ -167,4 +170,8 @@ Proyectos de laboratorio EnFlujo (arte, ciencia y periodismo): https://enflujo.c
 RTVE Lab: https://www.rtve.es/lab/
 
 National Film Board de Canada: https://www.nfb.ca/interactive/
+
+
+
+
 
