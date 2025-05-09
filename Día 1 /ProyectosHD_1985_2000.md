@@ -1,4 +1,4 @@
-##Proyectos de Humanidades Digitales (1985-2010)
+## Proyectos de Humanidades Digitales (1985-2010)
 
 La primera oleada de estudios sobre Humanidades Digitales a finales de la década de 1990 y principios de la de 2000 tendió a centrarse en proyectos de digitalización a gran escala y en el establecimiento de infraestructuras tecnológicas. 
 
