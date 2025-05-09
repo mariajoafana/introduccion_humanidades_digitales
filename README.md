@@ -1,6 +1,14 @@
-# Introduccion a las Humanidades Digitales
+# Introducción a las Humanidades Digitales
 
 Materiales del curso "Introducción a las Humanidades Digitales"
+
+Objetivos del curso: 
+
+- Comprender las trayectorias y debates actuales en el campo de las humanidades digitales.
+
+- Explorar herramientas digitales aplicadas a la investigación y las objetos culturales.
+
+- Diseñar un proyecto digital con fundamentos teóricos y prácticos.
 
 **Profesores:**  
 <a href="https://facartes.uniandes.edu.co/miembro/maria-jose-afanador/" target="_blank">Maria José Afanador Llach<a>  
