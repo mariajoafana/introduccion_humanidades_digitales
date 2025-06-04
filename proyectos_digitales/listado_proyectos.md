@@ -9,6 +9,9 @@ https://hdlab.space
 **Reviews in Digital Humanities**
 https://reviewsindh.pubpub.org
 
+**Recursos sobre archivos sonoros curados por el proyecto Poética Sonora:** 
+https://poeticasonora.unam.mx/sitios-de-interes/
+
 ## Arqueología
 
 Museo Virtual del Laboratorio de Arte y Arqueología Andina: https://badac.uniandes.edu.co/rap/museo/
