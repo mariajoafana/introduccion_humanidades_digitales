@@ -12,7 +12,8 @@
 - Weka 3: Data Mining Software in Java. Weka is a collection of machine learning algorithms for data mining tasks. (GNU/open source) 
 - Word Seer. WordSeer is a text analysis environment that combines visualization, information retrieval, sense-making, and and natural language processing to make the contents of text navigable, accessible, and useful. 
 -Computer Aided Textual Markup and Analysis. A tool for literary scholars, students and other parties with an interest in text analysis and literary research. 
--Taguette. Free and open-source tool for qualitative research. You can import your research materials, highlight and tag quotes, and export the results. 
+-Taguette. Free and open-source tool for qualitative research. You can import your research materials, highlight and tag quotes, and export the results.
+-Impresso. Media Monitoring of the Past is an interdisciplinary research project that uses machine learning to pursue a paradigm shift in the processing, semantic enrichment, representation, exploration, and study of historical media across modalities, time, languages, and national borders. https://impresso-project.ch/
 
 
 *Herramientas de publicación digital* 
