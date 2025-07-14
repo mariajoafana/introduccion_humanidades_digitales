@@ -10,10 +10,10 @@
 - TEI Encoding Initiative. The Text Encoding Initiative (TEI) is a consortiumthat develops and maintains a standard for the representation of texts in digital form. Its chief deliverable is a set of Guidelines (since 1994) that specify encoding methods for machine-readable texts, chiefly in the humanities, social sciences and linguistics. 
 - Time Mapper. Quickly create a timeline from a spreadsheet. 
 - Weka 3: Data Mining Software in Java. Weka is a collection of machine learning algorithms for data mining tasks. (GNU/open source) 
-- Word Seer. WordSeer is a text analysis environment that combines visualization, information retrieval, sense-making, and and natural language processing to make the contents of text navigable, accessible, and useful. 
--Computer Aided Textual Markup and Analysis. A tool for literary scholars, students and other parties with an interest in text analysis and literary research. 
--Taguette. Free and open-source tool for qualitative research. You can import your research materials, highlight and tag quotes, and export the results.
--Impresso. Media Monitoring of the Past is an interdisciplinary research project that uses machine learning to pursue a paradigm shift in the processing, semantic enrichment, representation, exploration, and study of historical media across modalities, time, languages, and national borders. https://impresso-project.ch/
+- Word Seer. WordSeer is a text analysis environment that combines visualization, information retrieval, sense-making, and and natural language processing to make the contents of text navigable, accessible, and useful.
+- Computer Aided Textual Markup and Analysis. A tool for literary scholars, students and other parties with an interest in text analysis and literary research. 
+- Taguette. Free and open-source tool for qualitative research. You can import your research materials, highlight and tag quotes, and export the results.
+- Impresso. Media Monitoring of the Past is an interdisciplinary research project that uses machine learning to pursue a paradigm shift in the processing, semantic enrichment, representation, exploration, and study of historical media across modalities, time, languages, and national borders. https://impresso-project.ch/
 
 
 *Herramientas de publicación digital* 
