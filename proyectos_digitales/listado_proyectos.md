@@ -85,6 +85,8 @@ AudibleRVA: https://reviewsindh.pubpub.org/pub/audiblerva/release/2
 
 Paisajes sonors históricos, c.1200-c.1800: https://eadh.org/projects/historical-soundscapes
 
+Hong Kong Pop Culture Map: https://digital.lib.hkbu.edu.hk/culture-map/en/index.php
+
 ## Artes escénicas
 
 Dunham’s Data: https://www.dunhamsdata.org/
@@ -163,6 +165,7 @@ Banana Craze: https://bananacraze.uniandes.edu.co/
 
 Viajeros del Orinoco: https://biblioteca.uniandes.edu.co/proyectos/viajeros-orinoco/index.html 
 
+Early Digital Art:  https://tracingdigital.art/
 
 
 ## Artes
