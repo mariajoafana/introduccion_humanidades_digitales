@@ -167,6 +167,8 @@ Viajeros del Orinoco: https://biblioteca.uniandes.edu.co/proyectos/viajeros-orin
 
 Early Digital Art:  https://tracingdigital.art/
 
+Tracing Art: https://www.awwwards.com/sites/tracing-art
+
 
 ## Artes
 
